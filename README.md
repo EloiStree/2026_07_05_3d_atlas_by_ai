@@ -93,5 +93,9 @@ https://youtu.be/xKK5ze3FukQ?t=44
 
 
 
+[<img width="1068" height="887" alt="image" src="https://github.com/user-attachments/assets/26a99df8-17f9-4564-bded-5ec05f4cc8ee" />](https://youtu.be/xKK5ze3FukQ?t=224)   
+https://youtu.be/xKK5ze3FukQ?t=224   
+
+
 
 
