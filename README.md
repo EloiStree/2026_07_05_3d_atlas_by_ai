@@ -4,6 +4,11 @@ I couldn't find an open-source 3D model of the Atlas robot, so I generated one u
 
 My goal is not to create a realistic 1:1 replica, but rather to provide a model with enough detail to build a mini-game in Godot. The idea is to let users practice on a simplified, fictional Atlas robot by controlling it through servo motor rotations.
 
+
+
+> Note that if you have money and dont need an CC license this guy did it:
+> https://3dmodels.org/3d-models/boston-dynamics-atlas-2026/
+
 <img width="632" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa67d8e9-9938-43d3-954b-067ee8882deb" />
 
 
@@ -25,5 +30,4 @@ https://www.youtube.com/watch?v=3aQWvdCac9o
 
 [<img width="438" height="592" alt="image" src="https://github.com/user-attachments/assets/24e4385b-419f-4343-9011-0adcd8ed9d0d" />](https://www.youtube.com/shorts/RgXhCw7Qzac?t=3&feature=share)
 https://www.youtube.com/shorts/RgXhCw7Qzac?t=3&feature=share
-
 
