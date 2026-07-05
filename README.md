@@ -98,4 +98,8 @@ https://youtu.be/xKK5ze3FukQ?t=224
 
 
 
+[<img width="1907" height="937" alt="image" src="https://github.com/user-attachments/assets/d36d6f4c-c174-44de-8725-2c7129a8e7d1" />](https://youtu.be/xKK5ze3FukQ?t=265)   
+https://youtu.be/xKK5ze3FukQ?t=265   
+
+
 
