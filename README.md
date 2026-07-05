@@ -58,6 +58,30 @@ https://youtu.be/wL0-Pu_8F0U?t=1640
 https://youtu.be/wL0-Pu_8F0U?t=1326
 
 
+[<img width="968" height="667" alt="image" src="https://github.com/user-attachments/assets/a4965a8c-ba87-413f-b754-ca8b4f687d55" />](https://youtu.be/wL0-Pu_8F0U?t=749)
+https://youtu.be/wL0-Pu_8F0U?t=749
+
+
+[<img width="1397" height="378" alt="image" src="https://github.com/user-attachments/assets/33d62c1d-d31d-469d-a6ea-6aa513a0f7cd" />](https://youtu.be/wL0-Pu_8F0U?t=927
+)  
+https://youtu.be/wL0-Pu_8F0U?t=927   
+
+
+Actuators
+A6
+A8
+[<img width="411" height="329" alt="image" src="https://github.com/user-attachments/assets/6893eccb-0c92-4e4d-ba06-2dddbb998695" />](https://youtu.be/wL0-Pu_8F0U?t=644)
+https://youtu.be/wL0-Pu_8F0U?t=644
+
+[<img width="310" height="607" alt="image" src="https://github.com/user-attachments/assets/87ca2498-f45d-4125-b629-8e86de12a5d7" />](https://youtu.be/wL0-Pu_8F0U?t=631)   
+https://youtu.be/wL0-Pu_8F0U?t=631   
+
+
+
+
+
+
+
 
 
 
