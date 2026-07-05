@@ -1,5 +1,8 @@
 # 2026_07_05_3d_atlas_by_ai
 
+Godot Code will be there:    
+https://github.com/EloiStree/2026_07_05_gdp_atlas   
+
 I couldn't find an open-source 3D model of the Atlas robot, so I generated one using AI and released it under the Beerware License.
 
 My goal is not to create a realistic 1:1 replica, but rather to provide a model with enough detail to build a mini-game in Godot. The idea is to let users practice on a simplified, fictional Atlas robot by controlling it through servo motor rotations.
