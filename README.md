@@ -103,3 +103,7 @@ https://youtu.be/xKK5ze3FukQ?t=265
 
 
 
+
+[<img width="397" height="394" alt="image" src="https://github.com/user-attachments/assets/293deb72-e748-4546-bca1-1cd4a9c4e76a" />](https://www.youtube.com/shorts/UoHfGhLHRkg?t=13&feature=share)   
+https://www.youtube.com/shorts/UoHfGhLHRkg?t=13&feature=share   
+
