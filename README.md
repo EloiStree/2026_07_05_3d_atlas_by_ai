@@ -19,6 +19,9 @@ https://youtu.be/rrUHZKlrxms?t=69
 https://bostondynamics.com/webinars/form-function-enterprise-humanoid-design/
 <img width="480" height="604" alt="image" src="https://github.com/user-attachments/assets/80eb1ae2-bc03-4cdf-8826-afa55f0f37fe" />
 
+[<img width="1121" height="443" alt="image" src="https://github.com/user-attachments/assets/9a010e44-e06b-4613-b04f-3e3f0cfbf9e1" />
+](https://youtu.be/CFS_zU1kWQw?t=18) 
+https://youtu.be/CFS_zU1kWQw?t=18   
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/254229fe-5e3d-4f0f-a2f8-67d0a5d994b7" />
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/3d7366c5-5892-430d-b290-b48cf2c49210" />
